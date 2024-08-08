@@ -1,0 +1,156 @@
+
+
+.header{
+    width: 100%;
+    background-color: black;
+    color: white;
+    
+}
+.head-image{
+width: 12%;
+margin-left: 20px;
+height:90px;
+}
+.head-ul{ 
+    float: right;
+    display: inline-block;
+    width: 60%;
+    /* border: 1px solid white; */
+   padding: 18px 10px;
+    /* padding: 20px 30px; */
+   margin: 0px;
+    list-style-type: none;
+}
+.head-ul > li{
+    display: inline-block;
+    font-size: larger;
+    width: 14% ;
+    height: 50px;
+    padding: 5px;
+    text-align: center;
+    margin: auto;
+    /* border: 1px solid white; */
+}
+.head-btn{
+background-color: black;
+width: 105%;
+color: white;
+border: 1px solid rgb(205, 27, 27);
+height: 50px;
+border-radius: 40px;
+}
+.slider > img{
+    margin: -15px 0px ;
+    /* background-color: black; */
+    
+}
+
+.wel-div{
+background-color: black;
+color: aliceblue;
+height: 550px;
+margin-top: -20px;
+padding-top: 50px;
+}
+.wel-div > h4{
+    font-size: xxx-large;
+    font-weight: 10;
+    text-align: center;
+}
+.wel-div > h4 > strong{
+    font-size: xxx-larger ;
+    color: darkcyan;
+    font-weight: 100px;;
+}
+.wel-div > p{
+    margin-top:-60px ;
+    font-size:20px;
+   text-align: center;
+}
+
+.wel-div > .brand-container{
+ background-color: black;
+text-align: center;
+}
+.wel-div > .brand-container > div{
+    display: inline-block;
+    width: 20%;
+    background-color: black;
+margin: 20px ;
+}
+.wel-div > .brand-container > div > img {
+    border-radius: 5px;
+width: 100%;
+}
+.wel-div > .brand-container > div > button{
+    margin: 20px;
+    width: 60%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: 40px;
+}
+
+.gallerey{
+    margin-top: -42px;
+    background-color:rgb(30, 29, 29);
+    color: white;
+    text-align: center;
+    /* padding: 10px; */
+}
+.gallerey > h2{
+/* background-color: cadetblue; */
+    font-size: 50px;
+}
+.gallerey > p{
+    /* background-color: burlywood; */
+    width: 100%;
+font-size: large;
+    margin-top: -30px;
+}
+.gallerey > div{
+    width: 100%;
+    display: flex;
+    background-color: rgb(30, 29, 29);
+    justify-content: center;
+    flex-wrap: wrap;
+    /* padding: 20px 20px; */
+}
+
+.gallerey > div > .gall-1{
+  
+   width: 40%;
+   height: 300px;
+   /* background-color: beige; */
+   text-align: left;
+   padding: 20px;
+}
+.gallerey > div > .gall-1>h4{
+    font-weight:bolder ;
+    color: brown;
+    letter-spacing: 5px;
+}
+.gallerey > div > .gall-1>h2{
+    color: whitesmoke;
+}
+.gallerey > div > .gall-1>p{
+    line-height: 26px;
+    color: white;
+}
+.gallerey > div > .gall-1>button{
+    width: 25%;
+    height: 15%;
+    border: 1px solid white;
+    border-radius:40px ;
+    background-color:rgb(30, 29, 29);
+    color: white;
+}
+.gallerey > div > .gall-1> img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+
+
